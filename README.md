@@ -1,1 +1,1 @@
-gh repo clone Subhash-007-png/portfolio
+https://subhash-007-png.github.io/portfolio/
