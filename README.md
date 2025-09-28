@@ -1,1 +1,1 @@
-https://subhash-007-png.github.io/portfolio/
+https://Subhash-007-png/portfolio.git/
